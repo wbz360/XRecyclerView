@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:orientation="horizontal" >
+    <TextView
+        android:id="@+id/loadHint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="XRecyclerView扩展了非常多的常用功能，可以添加一个headerView或者一个footerView，并且支持分组，上拉加载更多。。。等实用的功能。想了解更多请下载源码研究"
+        android:lineSpacingExtra="4dp"
+        android:textColor="#000000"
+        android:textSize="14sp" />
+
+</LinearLayout>
